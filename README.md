@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+![Screenshot 2024-04-09 at 8 35 27 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/0c84d69c-926c-410f-825e-9e74ad5633e2)
+
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
