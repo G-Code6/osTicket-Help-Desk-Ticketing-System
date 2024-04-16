@@ -49,6 +49,10 @@ This tutorial explains how to install the open-source help desk ticketing system
 - Download and install VC_redist.x86.exe.
 - Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 
+![Screenshot 2024-04-16 at 6 31 18 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/13849fae-657a-4614-9e10-944028f0f620)
+
+
+
 
 
 
