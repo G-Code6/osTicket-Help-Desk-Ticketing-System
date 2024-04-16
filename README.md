@@ -68,6 +68,13 @@ This tutorial explains how to install the open-source help desk ticketing system
 - Extract and copy “upload” folder to c:\inetpub\wwwroot
 - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
+Reload IIS (Open IIS, Stop and Start the server)
+
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+
+
+
 
 
 
