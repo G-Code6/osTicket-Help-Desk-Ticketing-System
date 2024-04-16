@@ -37,6 +37,10 @@ This tutorial explains how to install the open-source help desk ticketing system
 <h4>2. Connect to VM:</h4>
 
 - Use RDP (Windows) or SSH (Linux) to access the VM.
+- Install / Enable IIS in Windows WITH
+  CGI and Common HTTP Features
+
+
 
 
 
