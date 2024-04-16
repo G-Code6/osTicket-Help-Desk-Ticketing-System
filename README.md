@@ -56,7 +56,11 @@ This tutorial explains how to install the open-source help desk ticketing system
 - Standard Configuration
 - Password1
 
+![Image 4-16-24 at 6 48 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/d66b481d-9c14-488b-b2a7-2955b307600d)
 
+- Open IIS as an Admin
+- Register PHP from within IIS
+- Reload IIS (Open IIS, Stop and Start the server)
 
 
 
