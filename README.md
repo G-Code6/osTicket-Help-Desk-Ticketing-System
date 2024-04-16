@@ -24,4 +24,3 @@ This tutorial explains how to install the open-source help desk ticketing system
 - PHP: Install PHP on the VM.
 - Database: Decide between MySQL or MariaDB. We'll set it up on the VM too.
 - SMTP Server (Optional): Set up an SMTP server for email communication.
-
