@@ -42,6 +42,9 @@ This tutorial explains how to install the open-source help desk ticketing system
 
 ![Image](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/9527b80a-60c0-45d2-842b-22430aeef0f2)
 
+- Download and install PHP Manager 
+
+
 
 
 
