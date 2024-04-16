@@ -62,6 +62,13 @@ This tutorial explains how to install the open-source help desk ticketing system
 - Register PHP from within IIS
 - Reload IIS (Open IIS, Stop and Start the server)
 
+<h4>3. Install osTicket v1.15.8</h4>
+
+- Download osTicket & install
+- Extract and copy “upload” folder to c:\inetpub\wwwroot
+- Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+
 
 
 
