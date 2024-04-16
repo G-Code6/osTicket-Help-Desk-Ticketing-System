@@ -73,6 +73,8 @@ Reload IIS (Open IIS, Stop and Start the server)
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
+![Screenshot 2024-04-16 at 7 28 18 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/1986ad9c-3556-4874-a2d3-b622bbf0f72d)
+
 
 
 
