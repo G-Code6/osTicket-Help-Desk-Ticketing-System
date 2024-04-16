@@ -51,6 +51,11 @@ This tutorial explains how to install the open-source help desk ticketing system
 
 ![Screenshot 2024-04-16 at 6 31 18 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/13849fae-657a-4614-9e10-944028f0f620)
 
+- Typical Setup 
+- Launch Configuration Wizard (after installation)
+- Standard Configuration
+- Password1
+
 
 
 
