@@ -27,9 +27,10 @@ This tutorial explains how to install the open-source help desk ticketing system
 
 <h3>Installation Steps:<h3>
 
-<h4>1. Create VM:<h4>
+<h4>1. Create VM:</h4>
 
-Go to Azure
+- Go to Azure Portal > Virtual machines > Create VM.
+- Choose OS, size, and configuration.
 
 
 
