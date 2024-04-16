@@ -45,8 +45,11 @@ This tutorial explains how to install the open-source help desk ticketing system
 - Download and install PHP Manager for IIS
 - Download and install Rewrite Module
 - Create the directory C:\PHP
-- From the Installation Files, download PHP zip file and unzip the contents into C:\PHP folder
-- From the Installation Files, download and install VC_redist.x86.exe.
+- Download PHP zip file and unzip the contents into C:\PHP folder
+- Download and install VC_redist.x86.exe.
+- Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+
+
 
 
 
