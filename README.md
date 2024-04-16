@@ -34,4 +34,10 @@ This tutorial explains how to install the open-source help desk ticketing system
 
 ![RG vm](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/58671ac8-579d-471c-9f53-a9b159d55f86)
 
+<h4>2. Connect to VM:</h4>
+
+- Use RDP (Windows) or SSH (Linux) to access the VM.
+
+
+
 
