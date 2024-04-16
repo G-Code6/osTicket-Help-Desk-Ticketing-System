@@ -46,6 +46,9 @@ This tutorial explains how to install the open-source help desk ticketing system
 - Download and install Rewrite Module
 - Create the directory C:\PHP
 - From the Installation Files, download PHP zip file and unzip the contents into C:\PHP folder
+- From the Installation Files, download and install VC_redist.x86.exe.
+
+
 
 
 
