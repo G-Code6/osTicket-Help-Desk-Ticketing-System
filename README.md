@@ -18,8 +18,10 @@ This tutorial explains how to install the open-source help desk ticketing system
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- Azure Account: Sign up for Azure if you haven't already.
+- Virtual Machine: Create a VM on Azure to host osTicket.
+- Web Server: Choose Apache or Nginx. We'll install it on the VM.
+- PHP: Install PHP on the VM.
+- Database: Decide between MySQL or MariaDB. We'll set it up on the VM too.
+- SMTP Server (Optional): Set up an SMTP server for email communication.
 
