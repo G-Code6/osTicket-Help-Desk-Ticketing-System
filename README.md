@@ -103,6 +103,7 @@ On the right, click “Browse *:80”
 - Name Helpdesk
 - Default email (receives email from customers) etc.
 
+![Screenshot 2024-04-23 at 1 12 59 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/bf2f6e6c-ab12-40d7-a86a-76df008b8be7)
 
 
 
