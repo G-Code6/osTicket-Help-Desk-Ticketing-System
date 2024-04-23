@@ -112,6 +112,8 @@ On the right, click “Browse *:80”
 - Connect to the session
 - Create a database called “osTicket”
 
+![Screenshot 2024-04-23 at 1 33 01 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/31e8878a-f294-4247-b57c-1fbc43d19e6d)
+
 <h4>6. Continue Setting up osticket in the browser.</h4>
 
 
