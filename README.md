@@ -89,6 +89,13 @@ On the right, click “Browse *:80”
 - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
+<h4>Assign Permissions: ost-config.php</h4>
+
+- Right-click on ost-config.php
+- then click on properties > security > SYSTEM > Advanced > Disable inheritance > Remove All
+- New Permissions > Everyone > All
+
+
 
 
 
