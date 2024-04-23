@@ -123,6 +123,8 @@ On the right, click “Browse *:80”
 
 <h4>Congratulations we have installed osTicket.</h4>
 
+![Screenshot 2024-04-23 at 1 41 07 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/ba299a75-a468-48ef-952e-572fb26a4ace)
+
 
 
 
