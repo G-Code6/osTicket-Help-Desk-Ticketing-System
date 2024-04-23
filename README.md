@@ -105,7 +105,12 @@ On the right, click “Browse *:80”
 
 ![Screenshot 2024-04-23 at 1 12 59 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/bf2f6e6c-ab12-40d7-a86a-76df008b8be7)
 
+<h4>Download and install HeidiSQL.</h4>
 
+- Open Heidi SQL
+- Create a new session, root/Password1
+- Connect to the session
+- Create a database called “osTicket”
 
 
 
