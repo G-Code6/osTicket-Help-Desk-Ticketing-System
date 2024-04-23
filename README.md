@@ -84,6 +84,12 @@ On the right, click “Browse *:80”
 - Enable: php_opcache.dll
 - Refresh the osTicket site in your browse, observe the changes
 
+<h4>Rename: ost-config.php</h4>
+
+- From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+
 
 
 
