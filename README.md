@@ -97,6 +97,12 @@ On the right, click “Browse *:80”
 
 ![Screenshot 2024-04-23 at 12 32 47 PM](https://github.com/G-Code6/osTicket-Help-Desk-Ticketing-System/assets/163748328/cb4c4c4c-4684-439b-abe8-92818a8b5f65)
 
+<h4>Continue Setting up osTicket in the browser (click Continue)</h4>
+- Fill out all the necessary information 
+- Name Helpdesk
+- Default email (receives email from customers) etc.
+
+
 
 
 
