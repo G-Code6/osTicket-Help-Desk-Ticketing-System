@@ -119,7 +119,9 @@ On the right, click “Browse *:80”
 - MySQL Database: osTicket
 - MySQL Username: root
 - MySQL Password: Password1
-- Click “Install Now!”
+- Click “Install Now!
+
+<h4>Congratulations we have installed osTicket.</h4>
 
 
 
