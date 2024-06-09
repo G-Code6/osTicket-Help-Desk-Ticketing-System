@@ -14,7 +14,7 @@ This tutorial explains how to install the open-source help desk ticketing system
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 / MacOs </b> 
 
 <h2>List of Prerequisites</h2>
 
